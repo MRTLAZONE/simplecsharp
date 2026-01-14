@@ -74,7 +74,7 @@ class Program
         string input = Console.ReadLine() ?? "0" ;
         int age = int.Parse(input);
         if (age >= 18)
-    {
+        {
             Console.WriteLine("Majeur");
         }
         else
@@ -96,7 +96,7 @@ class Program
         Console.WriteLine("Exercice3_Boucles");
         for (int i = 1; i <= 10; i++)
         {
-            Console.Write(i + "");
+            Console.Write(i + " ");
         }
         int j = 0;
         while (j <= 20)
@@ -170,8 +170,8 @@ class Program
 
         // Ton code ici
         Console.WriteLine("Exercice6_Methodes");
-        Addition(5, 7);
         Console.WriteLine("La somme de 5 et 7 est : " + Addition(5, 7));
+        
         
     }
 
@@ -203,23 +203,23 @@ class Program
 class Voiture
 {
     // Propriétés
-    private string Marque;
-    private string Modele;
-    private int Annee;
+    private string _marque;
+    private string _modele;
+    private int _annee;
 
     // Constructeur
     public Voiture(string marque, string modele, int annee)
     {
-        Marque = marque;
-        Modele = modele;
-        Annee = annee;
+        _marque = marque;
+        _modele = modele;
+        _annee = annee;
     }
 
     // Méthode AfficherInfos
 
     public void AfficherInfos()
     {
-        Console.WriteLine($"Voiture : {Marque} {Modele}, Année : {Annee}");
+        Console.WriteLine($"Voiture : {_marque} {_modele}, Année : {_annee}");
     }
 
 }
