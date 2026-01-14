@@ -1,0 +1,15 @@
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\bin\Debug\net10.0\simplecsharp.exe
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\bin\Debug\net10.0\simplecsharp.deps.json
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\bin\Debug\net10.0\simplecsharp.runtimeconfig.json
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\bin\Debug\net10.0\simplecsharp.dll
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\bin\Debug\net10.0\simplecsharp.pdb
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.sourcelink.json
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.dll
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\refint\simplecsharp.dll
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.pdb
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\simplecsharp.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Documents\Perso\PARIS\Dev\C#\simplecsharp\obj\Debug\net10.0\ref\simplecsharp.dll
